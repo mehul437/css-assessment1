@@ -1,0 +1,46 @@
+h1{
+    color: red;
+    
+}
+h3{
+    color: red;
+    font-style: italic;
+    
+}
+ol{
+    color: firebrick; 
+    font-family: 'Times New Roman', Times, serif;  
+}
+.lis{
+ font-weight: 700;
+ text-decoration: line-through firebrick ;    
+}
+.back{
+    background-color:yellow;
+    font-weight: 700;
+}
+.lis4{
+    font-style: italic;
+    text-decoration: underline firebrick;
+
+}
+ul{
+    color: firebrick;
+    letter-spacing: 3px;
+}
+p{
+    color: chocolate;
+}
+#lin{
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+}
+a{
+    background-color: yellow;
+    font-weight: 800;
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 17px;
+}
